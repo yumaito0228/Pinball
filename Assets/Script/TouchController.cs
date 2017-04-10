@@ -9,8 +9,8 @@ public class TouchController : MonoBehaviour {
 	public GameObject rightup;
 	public GameObject rightdown;
 
-	GameObject leftfripper;
-	GameObject rightfripper;
+	public GameObject leftfripper;
+	public GameObject rightfripper;
 
 	private Rect rect;
 
